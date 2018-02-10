@@ -1,0 +1,35 @@
+body {
+    background-color: #f4c17a;
+}
+
+/* MEDIA QUERIES */
+
+/* first breakpoint, 1080px and below */
+
+@media (max-width: 1080px) {
+
+    body {
+        background-color: #5b89a9;
+    }
+
+}
+
+/* second breakpoint, 550px and below */
+
+@media (max-width: 550px) {
+
+    body {
+        background-color: #efcbe3;
+    }
+
+}
+
+/* third breakpoint, 400px and below */
+
+@media (max-width: 400px) {
+
+    body {
+        background-color: #887a7c;
+    }
+
+}

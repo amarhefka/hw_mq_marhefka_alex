@@ -1,0 +1,15 @@
+body {
+    background-color: #a5b276;
+}
+
+/* MEDIA QUERIES */
+
+/* only breakpoint, >715px and <960px; note that the values are 1 pixel off because the assignment did not include "or equal to" 715/960 */
+
+@media (min-width: 716px) and (max-width: 959px) {
+
+    body {
+        background-color: #554280;
+    }
+
+}
